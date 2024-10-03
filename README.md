@@ -1,7 +1,7 @@
 # Parse_pet
 
 Request implementation in JS and TS.
-__________
+
 # Run
 JS: Node Parse_pet.js
 
