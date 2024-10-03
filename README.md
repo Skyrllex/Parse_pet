@@ -1,4 +1,6 @@
-Реализация запроса на JS и TS.
+#Parse_pet
+
+Request implementation in JS and TS.
 __________
 Запуск 
 JS: Node Parse_pet.js
